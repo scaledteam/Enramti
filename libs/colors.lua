@@ -1,0 +1,3 @@
+COLOR_LOW = {0.15, 0.15, 0.15, 0.8}
+COLOR_TEXT = {1, 1, 1, 1}
+COLOR_HIGHLIGHT = {0.8, 0.8, 0.8, 0.5}
